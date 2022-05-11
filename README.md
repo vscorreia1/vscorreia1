@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vscorreia1
-- 👀 I’m interested in MS SQL Server, Oracle Database, PL/SQL
-- 🌱 I’m currently learning ... MS SQL Server 2017
+- 👀 I’m interested in Java Web, Spring, MS SQL Server, Oracle Database, PL/SQL
+- 🌱 I’m currently learning ... Java and MS SQL Server 2017
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me vscorreia1@hotmail.com
 
