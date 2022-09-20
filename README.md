@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vscorreia1
 - 👀 I’m interested in Java Web, Spring, MS SQL Server, Oracle Database, PL/SQL
-- 🌱 I’m currently learning ... Java and MS SQL Server 2017
-- 💞️ I’m looking to collaborate on Nothing
+- 🌱 I’m currently learning ... Java with MS SQL Server 2017 and PostgreSQL
+- 💞️ I’m looking to collaborate on Projetcs Java Web
 - 📫 How to reach me vscorreia1@hotmail.com
 
 <!---
